@@ -1,0 +1,7 @@
+.iti { display: block !important; }
+.breadcrumb li { font-size: 16px; }
+.navbar-nav > .user-menu .user-image { width: 45px; height: 45px; margin-top: -13px; }
+.sidebar-mini.sidebar-collapse .main-sidebar .user-panel { padding: 10px 2px;  }
+.sortable_anchor, .sortable_anchor:hover, .sortable_anchor:active, .sortable_anchor:focus{ color: inherit; display: block; }
+.box-body .col-md-9 img{ max-width: 100%; }
+textarea { resize: vertical; }
